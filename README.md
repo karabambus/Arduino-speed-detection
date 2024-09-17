@@ -22,5 +22,6 @@ Area of detection for 2 trigger lasers is height of one volleyball, this should 
 - Additional casing and stands are needed for live tests, currently we have 1 - 3d printed case for laser modules.
 ## Schematics
 ![Speed detector](https://github.com/user-attachments/assets/82ec8c28-afb5-4e91-98ad-97d74b265497)
+*LCD Display TODO*
 ## Instructions
 After connecting all components photo resistors should be set apart for desired length and distance constant should be adjusted (18cm is default in code).
