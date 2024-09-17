@@ -1,11 +1,11 @@
 # Arduino-speed-detection
 This repository contains instructions for building laser based speed detection system.
 ## Table of contents
-1. [Introduction](##Introduction)
-2. [TODO](###TODO) 
-3. [Components](##Components)
-4. [Schematics](##Sechematics)
-5. [Instructions](##Instructions)
+1. [Introduction](#introduction)
+2. [TODO](#todo) 
+3. [Components](#components)
+4. [Schematics](#schematics)
+5. [Instructions](#instructions)
 
 ## Introduction
 This project aims to detect speed of moving objects that are perpendicular to two lasers (that are aimed at photo resistors). First iteration is simple speed detection device that outputs speed in cm/s on serial monitor. 
