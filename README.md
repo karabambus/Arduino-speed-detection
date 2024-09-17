@@ -19,7 +19,7 @@ Area of detection for 2 trigger lasers is height of one volleyball, this should 
 - 2x 10k resistors 
 - 2x 3r laser module (3v)
 - 2x LDR 
-Additional casing and stands are needed for live tests, currently we have 1 - 3d printed case for laser modules.
+- Additional casing and stands are needed for live tests, currently we have 1 - 3d printed case for laser modules.
 ## Schematics
 ![Speed detector](https://github.com/user-attachments/assets/82ec8c28-afb5-4e91-98ad-97d74b265497)
 ## Instructions
