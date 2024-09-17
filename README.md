@@ -1,4 +1,4 @@
-# Arduino-speed-detection
+# Arduino speed detection
 This repository contains instructions for building laser based speed detection system.
 ## Table of contents
 1. [Introduction](#introduction)
