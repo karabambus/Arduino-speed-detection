@@ -15,10 +15,10 @@ Current progress - base functionality tested in simulated enviorment.
 For next phase (live tests without additional features) - bluetooth connection (practical), battery power source for arduino, laser casing and stand printed (currently only one), photo resistor and arduino stand and casing.
 Area of detection for 2 trigger lasers is height of one volleyball, this should be fixed with line lasers and aditional photoresistors.
 ## Components
-1x Arduino leonardo
-2x 10k resistors
-2x 3r laser module (3v)
-2x LDR 
+- 1x Arduino leonardo 
+- 2x 10k resistors 
+- 2x 3r laser module (3v)
+- 2x LDR 
 Additional casing and stands are needed for live tests, currently we have 1 - 3d printed case for laser modules.
 ## Schematics
 ![Speed detector](https://github.com/user-attachments/assets/82ec8c28-afb5-4e91-98ad-97d74b265497)
