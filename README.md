@@ -24,4 +24,4 @@ Area of detection for 2 trigger lasers is height of one volleyball, this should 
 ![Speed detector](https://github.com/user-attachments/assets/82ec8c28-afb5-4e91-98ad-97d74b265497)
 *LCD Display TODO*
 ## Instructions
-After connecting all components photo resistors should be set apart for desired length and distance constant should be adjusted (18cm is default in code).
+After connecting all components photo resistors should be set apart for desired length and distance should be adjusted (18cm is default in code), sensitivity and delay time according to amount of light during operation. To include class into project, class files need to be added into Arduino library.
